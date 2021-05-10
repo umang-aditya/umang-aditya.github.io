@@ -9,20 +9,20 @@
     <copyright>Copyright &amp;copy; 2020 a hugo theme by [somrat](https://somrat.netlify.com)</copyright>
     <lastBuildDate>Tue, 12 May 2020 12:14:34 +0600</lastBuildDate><atom:link href="/categories/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>design</title>
-      <link>/categories/design/</link>
+      <title>Deep Learning</title>
+      <link>/categories/deep-learning/</link>
       <pubDate>Tue, 12 May 2020 12:14:34 +0600</pubDate>
       
-      <guid>/categories/design/</guid>
+      <guid>/categories/deep-learning/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>development</title>
-      <link>/categories/development/</link>
+      <title>Machine Learning</title>
+      <link>/categories/machine-learning/</link>
       <pubDate>Tue, 12 May 2020 12:14:34 +0600</pubDate>
       
-      <guid>/categories/development/</guid>
+      <guid>/categories/machine-learning/</guid>
       <description></description>
     </item>
     
