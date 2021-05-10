@@ -2,72 +2,72 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Tags on Umang</title>
-    <link>/tags/</link>
+    <link>https://umang-aditya.github.io/tags/</link>
     <description>Recent content in Tags on Umang</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>Copyright &amp;copy; 2020 a hugo theme by [somrat](https://somrat.netlify.com)</copyright>
-    <lastBuildDate>Tue, 12 May 2020 12:14:34 +0600</lastBuildDate><atom:link href="/tags/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Tue, 12 May 2020 12:14:34 +0600</lastBuildDate><atom:link href="https://umang-aditya.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>access</title>
-      <link>/tags/access/</link>
+      <link>https://umang-aditya.github.io/tags/access/</link>
       <pubDate>Tue, 12 May 2020 12:14:34 +0600</pubDate>
       
-      <guid>/tags/access/</guid>
+      <guid>https://umang-aditya.github.io/tags/access/</guid>
       <description></description>
     </item>
     
     <item>
       <title>art</title>
-      <link>/tags/art/</link>
+      <link>https://umang-aditya.github.io/tags/art/</link>
       <pubDate>Tue, 12 May 2020 12:14:34 +0600</pubDate>
       
-      <guid>/tags/art/</guid>
+      <guid>https://umang-aditya.github.io/tags/art/</guid>
       <description></description>
     </item>
     
     <item>
       <title>database</title>
-      <link>/tags/database/</link>
+      <link>https://umang-aditya.github.io/tags/database/</link>
       <pubDate>Tue, 12 May 2020 12:14:34 +0600</pubDate>
       
-      <guid>/tags/database/</guid>
+      <guid>https://umang-aditya.github.io/tags/database/</guid>
       <description></description>
     </item>
     
     <item>
       <title>design</title>
-      <link>/tags/design/</link>
+      <link>https://umang-aditya.github.io/tags/design/</link>
       <pubDate>Tue, 12 May 2020 12:14:34 +0600</pubDate>
       
-      <guid>/tags/design/</guid>
+      <guid>https://umang-aditya.github.io/tags/design/</guid>
       <description></description>
     </item>
     
     <item>
       <title>development</title>
-      <link>/tags/development/</link>
+      <link>https://umang-aditya.github.io/tags/development/</link>
       <pubDate>Tue, 12 May 2020 12:14:34 +0600</pubDate>
       
-      <guid>/tags/development/</guid>
+      <guid>https://umang-aditya.github.io/tags/development/</guid>
       <description></description>
     </item>
     
     <item>
       <title>sketch</title>
-      <link>/tags/sketch/</link>
+      <link>https://umang-aditya.github.io/tags/sketch/</link>
       <pubDate>Tue, 12 May 2020 12:14:34 +0600</pubDate>
       
-      <guid>/tags/sketch/</guid>
+      <guid>https://umang-aditya.github.io/tags/sketch/</guid>
       <description></description>
     </item>
     
     <item>
       <title>web</title>
-      <link>/tags/web/</link>
+      <link>https://umang-aditya.github.io/tags/web/</link>
       <pubDate>Tue, 12 May 2020 12:14:34 +0600</pubDate>
       
-      <guid>/tags/web/</guid>
+      <guid>https://umang-aditya.github.io/tags/web/</guid>
       <description></description>
     </item>
     

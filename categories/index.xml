@@ -2,27 +2,27 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Categories on Umang</title>
-    <link>/categories/</link>
+    <link>https://umang-aditya.github.io/categories/</link>
     <description>Recent content in Categories on Umang</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>Copyright &amp;copy; 2020 a hugo theme by [somrat](https://somrat.netlify.com)</copyright>
-    <lastBuildDate>Tue, 12 May 2020 12:14:34 +0600</lastBuildDate><atom:link href="/categories/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Tue, 12 May 2020 12:14:34 +0600</lastBuildDate><atom:link href="https://umang-aditya.github.io/categories/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Deep Learning</title>
-      <link>/categories/deep-learning/</link>
+      <link>https://umang-aditya.github.io/categories/deep-learning/</link>
       <pubDate>Tue, 12 May 2020 12:14:34 +0600</pubDate>
       
-      <guid>/categories/deep-learning/</guid>
+      <guid>https://umang-aditya.github.io/categories/deep-learning/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Machine Learning</title>
-      <link>/categories/machine-learning/</link>
+      <link>https://umang-aditya.github.io/categories/machine-learning/</link>
       <pubDate>Tue, 12 May 2020 12:14:34 +0600</pubDate>
       
-      <guid>/categories/machine-learning/</guid>
+      <guid>https://umang-aditya.github.io/categories/machine-learning/</guid>
       <description></description>
     </item>
     
